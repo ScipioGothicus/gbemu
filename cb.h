@@ -128,3 +128,155 @@ void BIT_5_L(void);
 void BIT_5_HLp(void);
 void BIT_5_A(void);
 
+void BIT_6_B(void);                 //0x7*
+void BIT_6_C(void);
+void BIT_6_D(void);
+void BIT_6_E(void);
+void BIT_6_H(void);
+void BIT_6_L(void);
+void BIT_6_HLp(void);
+void BIT_6_A(void);
+void BIT_7_B(void);
+void BIT_7_C(void);
+void BIT_7_D(void);
+void BIT_7_E(void);
+void BIT_7_H(void);
+void BIT_7_L(void);
+void BIT_7_HLp(void);
+void BIT_7_A(void);
+
+void RES_0_B(void);                 //0x8*
+void RES_0_C(void);
+void RES_0_D(void);
+void RES_0_E(void);
+void RES_0_H(void);
+void RES_0_L(void);
+void RES_0_HLp(void);
+void RES_0_A(void);
+void RES_1_B(void);
+void RES_1_C(void);
+void RES_1_D(void);
+void RES_1_E(void);
+void RES_1_H(void);
+void RES_1_L(void);
+void RES_1_HLp(void);
+void RES_1_A(void);
+
+void RES_2_B(void);                 //0x9*
+void RES_2_C(void);
+void RES_2_D(void);
+void RES_2_E(void);
+void RES_2_H(void);
+void RES_2_L(void);
+void RES_2_HLp(void);
+void RES_2_A(void);
+void RES_3_B(void);
+void RES_3_C(void);
+void RES_3_D(void);
+void RES_3_E(void);
+void RES_3_H(void);
+void RES_3_L(void);
+void RES_3_HLp(void);
+void RES_3_A(void);
+
+void RES_4_B(void);                 //0xA*
+void RES_4_C(void);
+void RES_4_D(void);
+void RES_4_E(void);
+void RES_4_H(void);
+void RES_4_L(void);
+void RES_4_HLp(void);
+void RES_4_A(void);
+void RES_5_B(void);
+void RES_5_C(void);
+void RES_5_D(void);
+void RES_5_E(void);
+void RES_5_H(void);
+void RES_5_L(void);
+void RES_5_HLp(void);
+void RES_5_A(void);
+
+void RES_6_B(void);                 //0xB*
+void RES_6_C(void);
+void RES_6_D(void);
+void RES_6_E(void);
+void RES_6_H(void);
+void RES_6_L(void);
+void RES_6_HLp(void);
+void RES_6_A(void);
+void RES_7_B(void);
+void RES_7_C(void);
+void RES_7_D(void);
+void RES_7_E(void);
+void RES_7_H(void);
+void RES_7_L(void);
+void RES_7_HLp(void);
+void RES_7_A(void);
+
+void SET_0_B(void);                 //0xC*
+void SET_0_C(void);
+void SET_0_D(void);
+void SET_0_E(void);
+void SET_0_H(void);
+void SET_0_L(void);
+void SET_0_HLp(void);
+void SET_0_A(void);
+void SET_1_B(void);
+void SET_1_C(void);
+void SET_1_D(void);
+void SET_1_E(void);
+void SET_1_H(void);
+void SET_1_L(void);
+void SET_1_HLp(void);
+void SET_1_A(void);
+
+void SET_2_B(void);                 //0xD*
+void SET_2_C(void);
+void SET_2_D(void);
+void SET_2_E(void);
+void SET_2_H(void);
+void SET_2_L(void);
+void SET_2_HLp(void);
+void SET_2_A(void);
+void SET_3_B(void);
+void SET_3_C(void);
+void SET_3_D(void);
+void SET_3_E(void);
+void SET_3_H(void);
+void SET_3_L(void);
+void SET_3_HLp(void);
+void SET_3_A(void);
+
+void SET_4_B(void);                 //0xE*
+void SET_4_C(void);
+void SET_4_D(void);
+void SET_4_E(void);
+void SET_4_H(void);
+void SET_4_L(void);
+void SET_4_HLp(void);
+void SET_4_A(void);
+void SET_5_B(void);
+void SET_5_C(void);
+void SET_5_D(void);
+void SET_5_E(void);
+void SET_5_H(void);
+void SET_5_L(void);
+void SET_5_HLp(void);
+void SET_5_A(void);
+
+void SET_6_B(void);                 //0xF*
+void SET_6_C(void);
+void SET_6_D(void);
+void SET_6_E(void);
+void SET_6_H(void);
+void SET_6_L(void);
+void SET_6_HLp(void);
+void SET_6_A(void);
+void SET_7_B(void);
+void SET_7_C(void);
+void SET_7_D(void);
+void SET_7_E(void);
+void SET_7_H(void);
+void SET_7_L(void);
+void SET_7_HLp(void);
+void SET_7_A(void);
