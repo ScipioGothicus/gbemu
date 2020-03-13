@@ -57,15 +57,15 @@ void RRCA(void);                        //0x0F
 
 void STOP(unsigned char operand);       //0x10
 void LD_DE_dd(unsigned short operand);  //0x11
-void LD_DEP_A(void);                    //0x12
+void LD_DEp_A(void);                    //0x12
 void INC_DE(void);                      //0x13
 void INC_D(void);                       //0x14
 void DEC_D(void);                       //0x15
-void LD_D_D(void);                      //0x16
-void RLCA(void);                        //0x17
-void LD_aa_SP(unsigned short operand);  //0x18
-void ADD_HL_BC(void);                   //0x19
-void LD_A_DEP(void);                    //0x1A
+void LD_D_d(unsigned char operand);     //0x16
+void RLA(void);                         //0x17
+void JR_r(unsigned char operand);       //0x18
+void ADD_HL_DE(void);                   //0x19
+void LD_A_DEp(void);                    //0x1A
 void DEC_DE(void);                      //0x1B
 void INC_E(void);                       //0x1C
 void DEC_E(void);                       //0x1D
